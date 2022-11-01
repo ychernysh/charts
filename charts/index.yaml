@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  yarikapp:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2022-11-01T21:52:48.487435171+02:00"
+    description: A Helm chart for Kubernetes
+    digest: e6d7e1168de23c15f8f6b948fa7bcf74aa35f85fc0be588011a189db49cabcda
+    name: yarikapp
+    type: application
+    urls:
+    - yarikapp-0.1.0.tgz
+    version: 0.1.0
+generated: "2022-11-01T21:52:48.487138366+02:00"
